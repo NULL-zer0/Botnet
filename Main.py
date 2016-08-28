@@ -2,7 +2,7 @@ from threading import Thread
 import telepot, socket, time, string
 
 
-bot = telepot.Bot('250491782:AAErR1WD2hWavb8yzYCIGFblubJ6Ap2kWEA')
+bot = telepot.Bot('YOUR TOKEN')
 
 HOST = "irc.nlog.net"
 PORT = 6667
